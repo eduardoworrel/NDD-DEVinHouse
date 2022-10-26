@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lib/1.0.0": {
+      "type": "project",
+      "path": "../lib/lib.csproj",
+      "msbuildProject": "../lib/lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/eduardoworrel/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/app/app.csproj",
+      "projectName": "app",
+      "projectPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/app/app.csproj",
+      "packagesPath": "/Users/eduardoworrel/.nuget/packages/",
+      "outputPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/app/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/eduardoworrel/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/lib.csproj": {
+              "projectPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/bin/Debug/net6.0/processa
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/bin/Debug/net6.0/processa.deps.json
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/bin/Debug/net6.0/processa.runtimeconfig.json
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/bin/Debug/net6.0/processa.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/bin/Debug/net6.0/processa.pdb
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.csproj.AssemblyReference.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.AssemblyInfoInputs.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.AssemblyInfo.cs
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.csproj.CoreCompileInputs.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/refint/processa.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.pdb
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/processa.genruntimeconfig.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/Debug/net6.0/ref/processa.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKlqty4xBqYN+1nQNFJtcsz46OV7mdys44jv0mB4TvkPaOIo9wS00frs54OrpBi3XOh4lWLDu7wZFFUXKiD8HA==",
+  "success": true,
+  "projectFilePath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/TrafegoAereo/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardoworrel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/eduardoworrel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/eduardoworrel/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/eduardoworrel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/eduardoworrel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/eduardoworrel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

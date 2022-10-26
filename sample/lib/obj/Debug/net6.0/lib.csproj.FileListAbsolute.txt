@@ -1,0 +1,12 @@
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/bin/Debug/net6.0/lib.deps.json
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/bin/Debug/net6.0/lib.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/bin/Debug/net6.0/lib.pdb
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.csproj.AssemblyReference.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.AssemblyInfoInputs.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.AssemblyInfo.cs
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.csproj.CoreCompileInputs.cache
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/refint/lib.dll
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/lib.pdb
+/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/lib/obj/Debug/net6.0/ref/lib.dll
