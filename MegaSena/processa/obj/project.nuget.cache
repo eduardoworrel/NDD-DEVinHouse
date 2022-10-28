@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "tqBCMuTpnmOCMbYxOM5OUjhfCFH4jeIITDn6Idr1MqbzjghbNyw+JSlxn1msg5lzHyhoUZUVx4d6X9NlTUrauA==",
+  "dgSpecHash": "DxvkIhL4huVzMdsjK+1kcaCdaYl1/cSEscH5DlVvK5TqC3Ru3eCW9GwZtX2tcPz1ymBQsDSHDTkNei14/ENjhw==",
   "success": true,
-  "projectFilePath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
+  "expectedPackageFiles": [
+    "/home/eduardo/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/moq/4.18.2/moq.4.18.2.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

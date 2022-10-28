@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj": {}
+    "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj": {}
   },
   "projects": {
-    "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj": {
+    "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
+        "projectUniqueName": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
         "projectName": "processa",
-        "projectPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
-        "packagesPath": "/Users/eduardoworrel/.nuget/packages/",
-        "outputPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/obj/",
+        "projectPath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj",
+        "packagesPath": "/home/eduardo/.nuget/packages/",
+        "outputPath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/eduardoworrel/.nuget/NuGet/NuGet.Config"
+          "/home/eduardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -48,26 +54,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.8, 6.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj": {
+    "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj",
+        "projectUniqueName": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj",
         "projectName": "test.processa",
-        "projectPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj",
-        "packagesPath": "/Users/eduardoworrel/.nuget/packages/",
-        "outputPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/test.processa/obj/",
+        "projectPath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/test.processa/test.processa.csproj",
+        "packagesPath": "/home/eduardo/.nuget/packages/",
+        "outputPath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/test.processa/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/eduardoworrel/.nuget/NuGet/NuGet.Config"
+          "/home/eduardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -79,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj": {
-                "projectPath": "/Users/eduardoworrel/Documents/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj"
+              "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj": {
+                "projectPath": "/home/eduardo/Documentos/repos/NDD-DEVinHouse/MegaSena/processa/processa.csproj"
               }
             }
           }
@@ -127,12 +147,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
